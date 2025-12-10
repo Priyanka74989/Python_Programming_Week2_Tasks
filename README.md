@@ -1,2 +1,2 @@
-# Python_Programming_Week2_Tasks
-Python_Programming_Week2_Tasks
+# Syntecxhub_Project_Week-2_Tasks
+Syntecxhub_Project_Week-2_Tasks
